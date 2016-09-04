@@ -1,0 +1,12 @@
+.caja1{
+	border: 5px solid yellow;
+	width: 200px;
+	text-align: auto;
+	;
+}
+.caja2{
+	border: 5px solid yellow;
+	width: 200px;
+float: right;
+text-align: auto;
+}
